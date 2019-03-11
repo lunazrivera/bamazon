@@ -19,4 +19,4 @@ In order to use the Manager.js file use the node command `node manager.js`. Sele
 
 ## Bamazon gif
 
-![bamazon gif] (https://media.giphy.com/media/fnpxJaxZYcJ1jlB4vM/giphy.gif)
+![bamazon gif](https://media.giphy.com/media/fnpxJaxZYcJ1jlB4vM/giphy.gif)
